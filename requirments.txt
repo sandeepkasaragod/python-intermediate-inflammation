@@ -1,0 +1,18 @@
+certifi==2022.5.18.1
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1651017726246/work
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1648854394530/work
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1651609453931/work
+munkres==1.1.4
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1651020388975/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1652814985504/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
+PyQt5==5.15.4
+PyQt5-sip==12.9.0
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+sip @ file:///home/conda/feedstock_root/build_artifacts/sip_1646101165171/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1648827254365/work
+unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1649111910890/work
